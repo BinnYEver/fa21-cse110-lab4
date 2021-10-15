@@ -1,10 +1,10 @@
 ### Part2
 ## Question1:
-Output:
+Output: <br>
 3 <br>
 Explaination: Since for each time running the for loop, the i will increase 1, the given array has the length of 3. Therefore, we need to run 3 times of the for loop, then the i will increase 3, which means from 0 to 3. <br>
 ## Question2:
-Output: 
+Output: <br>
 150 <br>
 Explaination: Since the third for loop is given the number prices[2] = 300, therefore, ‘var discountedPrice = price[i] * (1 - discount);’ will be discountedPrice = 300 * (1 - 0.5) = 150 <br>
 ## Question3:
@@ -91,15 +91,8 @@ Explaination: Since Boolean(2) will return a true case 2 is a number other than 
 ## Question17:
 Explaination: The newArr[] will be 2, 4, 6. [1,2,3] and doSomething will be passed to the function modifyArray then after entered the for loop, we call the callback function which is the doSomething function and give the 1, 2, 3 respectively to the doSomething function. The doSomething will double the input number and return. Then we push those numbers into newArr[]. Therefore, the number in newArr[] will be 2, 4, 6. <br>
 ## Question19:
-<<<<<<< HEAD
 Output: <br>
 1 <br>
 4 <br>
 3 <br>
 2 <br>
-=======
-1
-4
-3
-2
->>>>>>> 1cfe359e508691a5c83db8e1428538d1c6971bdf
