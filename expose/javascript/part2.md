@@ -1,13 +1,8 @@
 ### Part2
 ## Question1:
-<<<<<<< HEAD
 Output:
 3 <br>
 Explaination: Since for each time running the for loop, the i will increase 1, the given array has the length of 3. Therefore, we need to run 3 times of the for loop, then the i will increase 3, which means from 0 to 3. <br>
-=======
-Output: 3 <br>
-Explain: Since for each time running the for loop, the i will increase 1, the given array has the length of 3. Therefore, we need to run 3 times of the for loop, then the i will increase 3, which means from 0 to 3.
->>>>>>> 1cfe359e508691a5c83db8e1428538d1c6971bdf
 ## Question2:
 Output: 
 150 <br>
