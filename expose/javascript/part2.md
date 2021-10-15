@@ -1,7 +1,7 @@
 ### Part2
 ## Question1:
-3
-Since for each time running the for loop, the i will increase 1, the given array has the length of 3. Therefore, we need to run 3 times of the for loop, then the i will increase 3, which means from 0 to 3.
+Output: 3 <br>
+Explain: Since for each time running the for loop, the i will increase 1, the given array has the length of 3. Therefore, we need to run 3 times of the for loop, then the i will increase 3, which means from 0 to 3.
 ## Question2:
 150
 Since the third for loop is given the number prices[2] = 300, therefore, ‘var discountedPrice = price[i] * (1 - discount);’ will be discountedPrice = 300 * (1 - 0.5) = 150
